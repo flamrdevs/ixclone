@@ -2,13 +2,19 @@
   <a title="license" href="https://github.com/flamrdevs/ixclone/blob/main/LICENSE">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://flamrdevs.cyclic.app/core/badge?t=dark&v=MIT">
-      <img alt="github" src="https://flamrdevs.cyclic.app/core/badge?t=light&v=MIT" hspace="1">
+      <img alt="license" src="https://flamrdevs.cyclic.app/core/badge?t=light&v=MIT" hspace="1">
     </picture>
   </a>
-  <a title="gzip" href="https://bundlejs.com/?q=ixclone">
+  <a title="version" href="https://www.npmjs.com/package/ixclone">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://flamrdevs.cyclic.app/npm/version?t=dark&n=ixclone">
+      <img alt="version" src="https://flamrdevs.cyclic.app/npm/version?t=light&n=ixclone" hspace="1">
+    </picture>
+  </a>
+  <a title="size" href="https://bundlejs.com/?q=ixclone">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://flamrdevs.cyclic.app/bundlejs/size?t=dark&n=ixclone">
-      <img alt="github" src="https://flamrdevs.cyclic.app/bundlejs/size?t=light&n=ixclone" hspace="1">
+      <img alt="size" src="https://flamrdevs.cyclic.app/bundlejs/size?t=light&n=ixclone" hspace="1">
     </picture>
   </a>
 </p>
