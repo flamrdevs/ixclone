@@ -1,29 +1,45 @@
 <p align="center">
   <a title="license" href="https://github.com/flamrdevs/ixclone/blob/main/LICENSE">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://flamrdevs.cyclic.app/core/badge?t=dark&v=MIT">
-      <img alt="license" src="https://flamrdevs.cyclic.app/core/badge?t=light&v=MIT" hspace="1">
+      <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/npm/l?t=dark&n=ixclone">
+      <img alt="license" src="https://none.deno.dev/npm/l?t=light&n=ixclone" hspace="1">
     </picture>
   </a>
   <a title="version" href="https://www.npmjs.com/package/ixclone">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://flamrdevs.cyclic.app/npm/version?t=dark&n=ixclone">
-      <img alt="version" src="https://flamrdevs.cyclic.app/npm/version?t=light&n=ixclone" hspace="1">
+      <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/npm/v?t=dark&n=ixclone">
+      <img alt="version" src="https://none.deno.dev/npm/v?t=light&n=ixclone" hspace="1">
     </picture>
   </a>
   <a title="size" href="https://bundlejs.com/?q=ixclone">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://flamrdevs.cyclic.app/bundlejs/size?t=dark&n=ixclone">
-      <img alt="size" src="https://flamrdevs.cyclic.app/bundlejs/size?t=light&n=ixclone" hspace="1">
+      <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/bundlejs/mz?t=dark&n=ixclone">
+      <img alt="size" src="https://none.deno.dev/bundlejs/mz?t=light&n=ixclone" hspace="1">
     </picture>
   </a>
 </p>
 
-# ixclone
+<h1 id="ixclone">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/ui/icon/lucide?t=dark&i=rocket">
+    <img alt="lucide rocket" src="https://none.deno.dev/ui/icon/lucide?t=light&i=rocket" hspace="1">
+  </picture>
+  <span>
+    ixclone
+  </span>
+</h1>
 
 simple clone
 
-## Usage
+<h2 id="usage">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/ui/icon/lucide?t=dark&i=code">
+    <img alt="lucide code" src="https://none.deno.dev/ui/icon/lucide?t=light&i=code" hspace="1">
+  </picture>
+  <span>
+    usage
+  </span>
+</h2>
 
 ```ts
 import ixclone from "ixclone";
@@ -39,6 +55,14 @@ A.foo = "baz";
 console.log(A.foo !== B.foo);
 ```
 
-## License
+<h2 id="license">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/ui/icon/lucide?t=dark&i=scale">
+    <img alt="lucide scale" src="https://none.deno.dev/ui/icon/lucide?t=light&i=scale" hspace="1">
+  </picture>
+  <span>
+    license
+  </span>
+</h2>
 
 MIT
