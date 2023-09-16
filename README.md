@@ -1,20 +1,20 @@
 <p align="center">
   <a title="license" href="https://github.com/flamrdevs/ixclone/blob/main/LICENSE">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/npm/l?t=dark&n=ixclone">
-      <img alt="license" src="https://none.deno.dev/npm/l?t=light&n=ixclone" hspace="1">
+      <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/npm/l/ixclone?t=dark">
+      <img alt="license" src="https://none.deno.dev/npm/l/ixclone?t=light" hspace="1">
     </picture>
   </a>
   <a title="version" href="https://www.npmjs.com/package/ixclone">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/npm/v?t=dark&n=ixclone">
-      <img alt="version" src="https://none.deno.dev/npm/v?t=light&n=ixclone" hspace="1">
+      <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/npm/v/ixclone?t=dark">
+      <img alt="version" src="https://none.deno.dev/npm/v/ixclone?t=light" hspace="1">
     </picture>
   </a>
   <a title="size" href="https://bundlejs.com/?q=ixclone">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/bundlejs/mz?t=dark&n=ixclone">
-      <img alt="size" src="https://none.deno.dev/bundlejs/mz?t=light&n=ixclone" hspace="1">
+      <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/bundlejs/mz/ixclone?t=dark">
+      <img alt="size" src="https://none.deno.dev/bundlejs/mz/ixclone?t=light" hspace="1">
     </picture>
   </a>
 </p>
